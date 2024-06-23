@@ -48,6 +48,9 @@
 
 
 # conference
+## speaker
+- [TechRamen/セッション切れに苦しまない: DockerとJupyter Notebookの活用法](https://fortee.jp/techramen-24-conf/proposal/022cb6b6-3d5a-48a4-be41-2d4dc3e1163b)
+
 ## staff
 - [PHPerKaigi2024](https://phperkaigi.jp/2024/)
 - [iOSDC Japan 2024 (core)](https://iosdc.jp/2024/)
