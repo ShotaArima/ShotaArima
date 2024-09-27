@@ -57,3 +57,4 @@
 
 ## participation
 - [phpcon_odawara2024](https://phpcon-odawara.jp/)
+- [PyConJP 2024](https://2024.pycon.jp/ja)
