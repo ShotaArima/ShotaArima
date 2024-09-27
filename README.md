@@ -57,4 +57,6 @@
 
 ## participation
 - [phpcon_odawara2024](https://phpcon-odawara.jp/)
+- [大吉祥寺.pm](https://kichijojipm.connpass.com/event/314917/)
 - [PyConJP 2024](https://2024.pycon.jp/ja)
+- [YAPC::Hakodate2024](https://yapcjapan.org/2024hakodate/)
