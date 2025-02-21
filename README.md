@@ -61,3 +61,4 @@
 - [大吉祥寺.pm](https://kichijojipm.connpass.com/event/314917/)
 - [PyConJP 2024](https://2024.pycon.jp/ja)
 - [YAPC::Hakodate2024](https://yapcjapan.org/2024hakodate/)
+- [PHP Conference Japan 2024](https://phpcon.php.gr.jp/2024/)
