@@ -55,6 +55,8 @@
 ## staff
 - [PHPerKaigi2024](https://phperkaigi.jp/2024/)
 - [iOSDC Japan 2024 (core)](https://iosdc.jp/2024/)
+- [エンジニアがこの先生き残るためのカンファレンス](https://kinoko-conf.dev/)
+- [PHPerKaigi2025](https://phperkaigi.jp/2025/)
 
 ## participation
 - [phpcon_odawara2024](https://phpcon-odawara.jp/)
@@ -62,3 +64,4 @@
 - [PyConJP 2024](https://2024.pycon.jp/ja)
 - [YAPC::Hakodate2024](https://yapcjapan.org/2024hakodate/)
 - [PHP Conference Japan 2024](https://phpcon.php.gr.jp/2024/)
+- [PHP Conference Odawara 2025](https://phpcon-odawara.jp/)
