@@ -57,6 +57,7 @@
 - [iOSDC Japan 2024 (core)](https://iosdc.jp/2024/)
 - [エンジニアがこの先生き残るためのカンファレンス](https://kinoko-conf.dev/)
 - [PHPerKaigi2025(core)](https://phperkaigi.jp/2025/)
+- [PHP Conference Japan 2025](https://phpcon.php.gr.jp/2025/)
 
 ## participation
 - [phpcon_odawara2024](https://phpcon-odawara.jp/)
